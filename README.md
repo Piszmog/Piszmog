@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Piszmog
 
-I am currently a Software Engineer within the Financial Industry. Previously, I worked as a Software Engineer
-in the Defense Industry. I have been professionally working since **2013**.
+I am currently a Software Engineer within the Financial Industry. Previously, I worked as a Software Engineer in the
+Defense Industry. I have been professionally working since **2013**.
 
 ## 💎 Some Facts
 
@@ -14,12 +14,14 @@ in the Defense Industry. I have been professionally working since **2013**.
 
 ### 💬 Languages
 
+<p>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="50" height="50"/>
+</p>
 
 ### ⚡ Frameworks
 
