@@ -19,7 +19,7 @@ Defense Industry. I have been professionally working since **2013**.
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo" width="50" height="50"/>
-<img style="background-color: white" src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="50" height="50"/>
 </p>
 
