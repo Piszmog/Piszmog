@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Randell
 
-I am currently a Software Engineer with Sourcegraph. Previously, I worked as a Software Engineer in the
-Financial and Defense Industry. I have been professionally working since **2013**.
+I am a Software Engineer. Previously, I worked as a Software Engineer in the
+Financial, Defense, and Software Tooling Industries. I have been professionally working since **2013**.
 
 ## 💎 Some Facts
 
